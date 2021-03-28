@@ -2,7 +2,7 @@
 This is the result of one of my first assignments in Programming 1 class, a little project to start applying some basic JavaScript code to an HTML page.
 There's some CSS too.    
 Note: The CSS was extra, I'm not great with web design at this point, but having the page being entirely white was hurting my eyes a bit, so I changed the colors based only on that.    
-Note 2: This project is in Spanish (because that's the language I receive classes with).
+Note 2: This project is in Spanish (because that's the language I receive classes in).
 
 ---------------------
 
