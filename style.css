@@ -1,0 +1,27 @@
+body {
+    /*cambiar los colores de background y texto
+    para que no molesten tanto a la vista*/
+    background-color: #0e0d0d;
+    color:#f88f8f;
+    /*centrar texto*/
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+}
+
+/*resaltar botón normal*/
+input[type="button"] {
+  background-color: #e7e7e7;
+  padding: 15px 32px;
+}
+
+/*resaltar botón seleccionado*/
+input[type="button"]:hover {
+    background-color: #b3b3b3
+}
+
+/*resaltar botón al hacer click*/
+input[type="button"]:active {
+    background-color: #979797
+}
