@@ -37,22 +37,22 @@ document.querySelector("#botonEj12").addEventListener("click",ejercicio12);
 //llamamos a la función ejercicio13 con el botón del ejercicio 13
 document.querySelector("#botonEj13").addEventListener("click",ejercicio13);
 
-clicksE13 = 0; // variable global de clicks que usaremos para el ejercicio 13
+let clicksE13 = 0; // variable global de clicks que usaremos para el ejercicio 13
 //esta variable debe ser global pues si la definimos dentro de la función ejercicio13, su valor volverá a 0 o NaN cada vez que se corra la función
 
 //llamamos a la función ejercicio14 con el botón del ejercicio 14
 document.querySelector("#botonEj14").addEventListener("click",ejercicio14);
 
-clicksE14 = 0;
+let clicksE14 = 0;
 
 //llamamos a la función ejercicio15 con el botón del ejercicio 15
 document.querySelector("#botonEj15").addEventListener("click",ejercicio15);
 //llamamos a la función ejercicio15Mostrar para mostrar el resultado
 document.querySelector("#botonEj15Mostrar").addEventListener("click",ejercicio15Mostrar);
 // variable global, iniciada en 0, para el Ejercicio15
-valorAnteriorE15 = 0;
+let valorAnteriorE15 = 0;
 // variable global, iniciada en 0, para el Ejercicio15
-valoresSumadosE15 = 0;
+let valoresSumadosE15 = 0;
 
 //llamamos a la función ejercicio16 con el botón del ejercicio 16
 document.querySelector("#botonEj16").addEventListener("click",ejercicio16);
